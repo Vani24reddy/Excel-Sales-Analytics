@@ -5,8 +5,8 @@
 ## 📊 Sales Report  
 
 ### 🔹 Project Objective:  
-1. Create a **[Customer Performance Report](https://github.com/CodeWithHarshaan/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)** to analyze sales trends and key performance metrics.  
-2. Conduct a **[Market Performance vs Sales Target Analysis](https://github.com/CodeWithHarshaan/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)** to compare actual sales with target figures and identify growth opportunities.  
+1. Create a **[Customer Performance Report](https://github.com/Vani24reddy/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)** to analyze sales trends and key performance metrics.  
+2. Conduct a **[Market Performance vs Sales Target Analysis](https://github.com/Vani24reddy/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)** to compare actual sales with target figures and identify growth opportunities.  
 
 ### 🔹 Purpose of Sales Analytics:  
 - Empower businesses to monitor and evaluate sales activities and performance.  
@@ -26,8 +26,8 @@
 ##  Finance Report  
 
 ### 🔹 Project Objective:  
-1. Create **Profit and Loss (P&L) Reports** by **[Fiscal Year](https://github.com/CodeWithHarshaan/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)** and **[Fiscal Month](https://github.com/CodeWithHarshaan/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Month.pdf)** for financial performance tracking.  
-2. Generate **[P&L Reports by Market](https://github.com/CodeWithHarshaan/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)** to assess regional profitability and cost structures.  
+1. Create **Profit and Loss (P&L) Reports** by **[Fiscal Year](https://github.com/Vani24reddy/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)** and **[Fiscal Month](https://github.com/Vani24reddy/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Month.pdf)** for financial performance tracking.  
+2. Generate **[P&L Reports by Market](https://github.com/Vani24reddy/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)** to assess regional profitability and cost structures.  
 
 ### 🔹 Purpose of Financial Analytics:  
 - Provide insights into revenue, expenses, and profitability for informed business decisions.  
@@ -79,5 +79,5 @@
 ---
 
 ## 🔗 Repository Links:  
-- 📁 **Sales Reports Folder:** [Click here](https://github.com/CodeWithHarshaan/Excel-Sales-Analytics)  
+- 📁 **Sales Reports Folder:** [Click here](https://github.com/Vani24reddy/Excel-Sales-Analytics)  
     
